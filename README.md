@@ -10,3 +10,7 @@ test for displaying math:
 
 ![equation](http://latex.codecogs.com/gif.latex?LOSS%20=%20\frac{1}{N}%20\sum_i%20D%28S%28Wx_i+b%29,L_i%29)
 
+## mapping matrices to neurons
+
+![mapping matrices to neurons](matrix_to_neuron.png)
+
